@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/adityar33449555" target="blank"><img src="https://img.shields.io/twitter/follow/adityar33449555?logo=twitter&style=for-the-badge" alt="adityar33449555" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning: **Frameworks, courses etc.**
 
-- 📫 How to reach me **adityaroy2218@gmail.com**
+- 📫 How to reach me: **adityaroy2218@gmail.com**
 
 - ⚡ Fun fact: **My sense of humor is broken.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityar33449555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityar33449555" height="30" width="40" /></a>
-<a href="https://kaggle.com/aditya kumar roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya kumar roy" height="30" width="40" /></a>
 <a href="https://instagram.com/_._sublime_subjugator_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._sublime_subjugator_._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adityaroy2218" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityaroy2218" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityaroy2218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaroy2218" height="30" width="40" /></a>
 <a href="https://discord.gg/723593094192431175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="723593094192431175" height="30" width="40" /></a>
 </p>
