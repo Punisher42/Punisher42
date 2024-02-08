@@ -11,13 +11,12 @@
 
 - 📫 How to reach me **adityaroy2218@gmail.com**
 
-- ⚡ Fun fact **My sense of humor is broken.**
+- ⚡ Fun fact: **My sense of humor is broken.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityar33449555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityar33449555" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-roy-17833726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-roy-17833726a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/adityakrroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adityakrroy" height="30" width="40" /></a>
+<a href="https://kaggle.com/aditya kumar roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya kumar roy" height="30" width="40" /></a>
 <a href="https://instagram.com/_._sublime_subjugator_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._sublime_subjugator_._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityaroy2218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityaroy2218" height="30" width="40" /></a>
 <a href="https://discord.gg/723593094192431175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="723593094192431175" height="30" width="40" /></a>
